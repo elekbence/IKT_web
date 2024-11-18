@@ -1,0 +1,6 @@
+p{
+    font-weight: bold; /*Félkövér betű típús*/
+    font-style: italic; /*Dőlt betű típús */
+    text-decoration: underline; /*Aláhúzott betűtípús*/
+    text-decoration: none; /*aláhúzás megtekintése*/
+}
